@@ -6,7 +6,7 @@ Predicts whether a borrower will default on a loan, using a synthetic credit-ris
 - **Target:** `target_default_risk` (0 = No Default, 1 = Default)
 - **Submitted by:** Vijay
 
-## Results
+## Results.
 
 | Model | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
